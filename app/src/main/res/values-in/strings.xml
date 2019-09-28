@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">MovieCatalogueDua</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title">Judul</string>
+    <string name="language">Bahasa</string>
+    <string name="year">Tahun</string>
+    <string name="overview">Ikhtisar</string>
+
+    <string name="change_language_settings">Ganti Bahasa</string>
+    <string name="nav_movie">Sinema</string>
+    <string name="nav_tv_show">Acara TV</string>
+</resources>
